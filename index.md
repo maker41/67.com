@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 67
 
 You can use the [editor on GitHub](https://github.com/maker41/67.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
